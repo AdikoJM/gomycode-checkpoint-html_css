@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+    text-decoration: none;
+    list-style-type: none;
+}
+.lol{
+    text-align: center;
+}
+.mdr{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+header{
+    height: 50px;
+    background: indigo;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    left: 5%;
+    right:5%;
+}
+header ul{
+    margin: 15px;
+}
+header li{
+    float: left;
+}
+header a{
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+section{
+    text-align: center;
+    background: indigo;
+    color: white;
+    font-weight: bold;
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.sec1 input{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.sec1 form{
+    margin: 5px;
+    padding: 5px;
+}
+.sec2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.sec2 input{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.sec2 form{
+    margin: 5px;
+    padding: 5px;
+}
+.sec3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.sec3 input{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.sec3 form{
+    margin: 5px;
+    padding: 5px;
+}
+.sec4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.sec4 input{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.sec4 form{
+    margin: 5px;
+    padding: 5px;
+}
+.zo{
+    color: white;
+    font-weight: bold;
+}
+button{
+    border: 1px solid;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+}
+footer{
+    background: gray;
+    height: 50px;
+    font-weight: bold;
+    width: 100%;
+}
+footer p{
+   float: right;
+   bottom: 0px;
+   right: 0px;
+   padding-top: 30px;
+}
+footer a{
+    float: left;
+    color: white;
+    padding: 8px;
+}
+.trait:hover{
+    border-bottom: 2px solid white;
+    padding: 5px;
+    margin: 5px;
+}
+.rond{
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 5px;
+}
+.rond:hover{
+    color: gold;
+}
+
